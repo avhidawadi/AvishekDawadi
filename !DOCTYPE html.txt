@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Digital Marketing</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Digital Marketing</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<section>
+			<h2>Welcome to Our Website</h2>
+			<p>We are a digital marketing company that specializes in helping businesses increase their online presence and grow their revenue through effective online marketing strategies.</p>
+			<a href="#" class="cta-button">Get Started</a>
+		</section>
+
+		<section>
+			<h2>Our Services</h2>
+			<ul>
+				<li>Search Engine Optimization (SEO)</li>
+				<li>Pay-Per-Click (PPC) Advertising</li>
+				<li>Social Media Marketing</li>
+				<li>Email Marketing</li>
+				<li>Content Marketing</li>
+			</ul>
+			<a href="#" class="cta-button">Learn More</a>
+		</section>
+
+		<section>
+			<h2>About Us</h2>
+			<p>We are a team of experienced digital marketers who are passionate about helping businesses achieve their goals through online marketing. We have worked with a variety of clients from different industries and have a proven track record of delivering results.</p>
+		</section>
+
+		<section>
